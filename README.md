@@ -3,4 +3,4 @@ Zbudowałem ją zupełnie na nowo, doprowadzając do wzrostu liczby nowych użyt
 Ten projekt był wykonywany dla klienta i niestety **kod** pozostanie **w trybie prywatnym**.     
 Zachęcam jednak do przeglądu kodu pozostałych lub sprawdzenia samych efektów na: https://awprojekt.com/
 
-![awGithub](https://user-images.githubusercontent.com/117179182/207651043-1b31d669-c4e1-4064-90ca-7c106c2848d3.png)
+![image](https://user-images.githubusercontent.com/117179182/207667146-7087109b-ac99-4a7e-b46f-b4744dfb18a6.png)
